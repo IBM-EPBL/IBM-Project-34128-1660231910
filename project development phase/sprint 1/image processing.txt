@@ -1,0 +1,23 @@
+from keras.preprocessing.image import ImageDataGenerator
+from google.colab import drive
+
+drive.mount('/content/drive')
+Mounted at /content/drive
+train_datagen = ImageDataGenerator(rescale=1./255,shear_range=0.2,zoom_range=0.2,horizontal_flip=True)
+test_datagen=ImageDataGenerator(rescale=1./255)
+
+x_train=train_datagen.flow_from_directory(r'/content/drive/MyDrive/TRAIN_SET',target_size=(64,64),batch_size=32,class_mode='categorical')
+x_test=train_datagen.flow_from_directory(r'/content/drive/MyDrive/TEST_SET',target_size=(64,64),batch_size=32,class_mode='categorical')
+
+Found 4118 images belonging to 5 classes.
+Found 929 images belonging to 5 classes.
+
+print(x_train.class_indices)
+{'APPLES': 0, 'BANANA': 1, 'ORANGE': 2, 'PINEAPPLE': 3, 'WATERMELON': 4}
+
+print(x_test.class_indices)
+{'APPLES': 0, 'BANANA': 1, 'ORANGE': 2, 'PINEAPPLE': 3, 'WATERMELON': 4}
+
+from collections import Counter as c
+c(x_train .labels)
+Counter({0: 995, 1: 1354, 2: 1019, 3: 275, 4: 475})
