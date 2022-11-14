@@ -77,6 +77,17 @@ as they have no prior knowledge about them.
     Build Python Code
  # PROJECT STRUCTURE
  ![dataset](https://user-images.githubusercontent.com/113708413/201641334-391eb587-5367-4efa-ab3b-d27df2221071.png)
+  **Create a Project folder which contains files as shown below**
+  -Dataset folder contains the training and testing images for training our model.
+-We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
+-we need the model which is saved and the saved model in this content is a nutrition.h5
+-templates folder contains home.html, image.html, imageprediction.html pages.
+-Statis folder had the css and js files which are necessary for styling the html page and for executing the actions.
+-Uploads folder will have the uploaded images(which are already tested).
+-Sample_images will have the images which are used to test or upload.
+-Training folder contains the trained model file.
+# TECHNICAL ARCHITECTURE
+![architecture](https://user-images.githubusercontent.com/113708413/201641883-83534f86-ba96-4018-bc3a-49f7a5cdbcf8.png)
 
  
 
