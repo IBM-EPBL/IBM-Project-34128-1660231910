@@ -90,6 +90,8 @@ as they have no prior knowledge about them.
 # TECHNICAL ARCHITECTURE
 ![architecture](https://user-images.githubusercontent.com/113708413/201641883-83534f86-ba96-4018-bc3a-49f7a5cdbcf8.png)
 
+# PROJECT WORKFLOW
+
  
 
 
