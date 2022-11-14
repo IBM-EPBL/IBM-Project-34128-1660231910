@@ -91,7 +91,8 @@ as they have no prior knowledge about them.
 ![architecture](https://user-images.githubusercontent.com/113708413/201641883-83534f86-ba96-4018-bc3a-49f7a5cdbcf8.png)
 # PROJECT WORKFLOW
    ➼ Ideation phase
-     [Problem statement] -[https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf](https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20Statement.docx.pdf)
+     [Problem statement] -[https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf]
+     (https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20Statement.docx.pdf)
     
      [Brainstroming- Idea Generation] - [https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Brainstrom%20and%20Prioritization.pdf]
      
