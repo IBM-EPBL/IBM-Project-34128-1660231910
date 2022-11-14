@@ -77,6 +77,7 @@ as they have no prior knowledge about them.
     Build Python Code
  # PROJECT STRUCTURE
  ![dataset](https://user-images.githubusercontent.com/113708413/201641334-391eb587-5367-4efa-ab3b-d27df2221071.png)
+ 
   **Create a Project folder which contains files as shown below**
   -Dataset folder contains the training and testing images for training our model.
 -We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
