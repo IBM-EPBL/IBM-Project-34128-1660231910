@@ -22,7 +22,7 @@ different characteristics like colour, shape, texture etc. Here the user can cap
 fruits and then the image will be sent the trained model. The model analyses the image and detect the nutrition 
 based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
 # PROJECT OBJECTIVE
-**By the end of this project you will
+**By the end of this project you will**
 ➼ Know fundamental concepts and techniques of Convolutional Neural Network.
 
 ➼ Gain a broad understanding of image data.
@@ -43,6 +43,40 @@ tracking their nutritional contents like fiber, protein and essential nutritions
 fruits are allergic to some consumers based on their medical condition. Which they need to identify before consuming.
 Identifying nutritional values of unknown food and fruit varieties will become impossible without online technologies 
 as they have no prior knowledge about them.
+# PROJECT FLOW
+  User interacts with the UI (User Interface) to upload the image as input
+
+  Depending on the different gesture inputs different operations are applied to the input image.
+
+  Once model analyses the gesture, the prediction with operation applied on image is showcased on the UI.
+  **To accomplish this, we have to complete all the activities and tasks listed below**
+  ➼ Data Collection.
+
+   Collect the dataset or Create the dataset
+
+➼ Data Preprocessing.
+
+    Import the ImageDataGenerator library
+    Configure ImageDataGenerator class
+    Apply ImageDataGenerator functionality to Trainset and Testset
+
+➼ Model Building
+
+    Import the model building Libraries
+    Initializing the model
+    Adding Input Layer\
+    Adding Hidden Layer
+    Adding Output Layer
+    Configure the Learning Process
+    Training and testing the model
+    Save the Model
+
+➼ Application Building
+
+    Create an HTML file
+    Build Python Code
+ # PROJECT STRUCTURE
+ 
 
 
 
