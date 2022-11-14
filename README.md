@@ -8,6 +8,7 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 2. NAVEENA T[TM1] -612919104035
 3. PRABA K[TM2] - 612919104039
 4. GOWRI S[TM3] - 612919104022
+ 
 ![cycling_](https://user-images.githubusercontent.com/113708413/201638803-387ce02a-dbb5-4c82-bf6b-a4ec58f714c2.gif)
 # INTRODUCTION
   Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
@@ -20,3 +21,28 @@ that provides information about the chemical composition, processing, quality co
 different characteristics like colour, shape, texture etc. Here the user can capture the images of different 
 fruits and then the image will be sent the trained model. The model analyses the image and detect the nutrition 
 based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
+# PROJECT OBJECTIVE
+**By the end of this project you will
+➼ Know fundamental concepts and techniques of Convolutional Neural Network.
+
+➼ Gain a broad understanding of image data.
+
+➼ Know how to pre-process/clean the data using different data preprocessing techniques.
+
+➼ Know how to build a web application using Flask framework.
+# PROBLEM STATEMENT
+  The main problem faced by fitness enthusiasts is tracking their daily nutrition intake which is important to 
+stay fit. But in today's bustling society and availability of abundant resources online about fitness, tracking 
+nutrition will become more challenging and inaccurate. Fitness enthusiasts normally follow their diet plans but 
+they struggle tracking nutritional contents of the food. Fruits are rich in vitamins, fibers, and minerals which
+makes them easily digestible, but over-consumption will result in weight gain and even diabetes as fruit contains 
+natural sugar.
+
+  Fitness enthusiasts follow a diet which contains fruits, vegetables, protein rich foods and low carb foods. But
+tracking their nutritional contents like fiber, protein and essential nutritions will not be an easy task. Some 
+fruits are allergic to some consumers based on their medical condition. Which they need to identify before consuming.
+Identifying nutritional values of unknown food and fruit varieties will become impossible without online technologies 
+as they have no prior knowledge about them.
+
+
+
