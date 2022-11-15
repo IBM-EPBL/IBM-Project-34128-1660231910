@@ -8,6 +8,8 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 2. NAVEENA T[TM1] -612919104035
 3. PRABA K[TM2] - 612919104039
 4. GOWRI S[TM3] - 612919104022
+5. ![Fitness](https://user-images.githubusercontent.com/113708413/201829097-fb52bbd6-f6dd-4d4c-a2f2-28ae5edff77e.gif)
+
  
 # INTRODUCTION
   Food is essential for human life and has been the concern of many healthcare conventions. Nowadays 
