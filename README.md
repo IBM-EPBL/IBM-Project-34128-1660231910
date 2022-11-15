@@ -46,11 +46,13 @@ fruits are allergic to some consumers based on their medical condition. Which th
 Identifying nutritional values of unknown food and fruit varieties will become impossible without online technologies 
 as they have no prior knowledge about them.
 # PROJECT FLOW
+
   User interacts with the UI (User Interface) to upload the image as input
 
   Depending on the different gesture inputs different operations are applied to the input image.
 
   Once model analyses the gesture, the prediction with operation applied on image is showcased on the UI.
+  
   **To accomplish this, we have to complete all the activities and tasks listed below**
   
 ➼ Data Collection.
