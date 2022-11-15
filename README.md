@@ -52,7 +52,8 @@ as they have no prior knowledge about them.
 
   Once model analyses the gesture, the prediction with operation applied on image is showcased on the UI.
   **To accomplish this, we have to complete all the activities and tasks listed below**
-  ➼ Data Collection.
+  
+➼ Data Collection.
 
    Collect the dataset or Create the dataset
 
@@ -81,6 +82,7 @@ as they have no prior knowledge about them.
  ![dataset](https://user-images.githubusercontent.com/113708413/201641334-391eb587-5367-4efa-ab3b-d27df2221071.png)
  
   **Create a Project folder which contains files as shown below**
+  
   -Dataset folder contains the training and testing images for training our model.
 -We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
 -we need the model which is saved and the saved model in this content is a nutrition.h5
