@@ -8,7 +8,8 @@ Creating an AI-Powered Nutrition Analyzer for Fitness Enthusiasists to Know the 
 2. NAVEENA T[TM1] -612919104035
 3. PRABA K[TM2] - 612919104039
 4. GOWRI S[TM3] - 612919104022
-5. ![Fitness](https://user-images.githubusercontent.com/113708413/201829097-fb52bbd6-f6dd-4d4c-a2f2-28ae5edff77e.gif)
+ 
+ ![Fitness](https://user-images.githubusercontent.com/113708413/201829097-fb52bbd6-f6dd-4d4c-a2f2-28ae5edff77e.gif)
 
  
 # INTRODUCTION
@@ -89,7 +90,7 @@ as they have no prior knowledge about them.
 -Sample_images will have the images which are used to test or upload.
 -Training folder contains the trained model file.
 # TECHNICAL ARCHITECTURE
-![architecture](https://user-images.githubusercontent.com/113708413/201641883-83534f86-ba96-4018-bc3a-49f7a5cdbcf8.png)
+![architecture](https://user-images.githubusercontent.com/113708413/201641883-83534f86-ba96-4018-bc3a-49f7a5cdbcf8.png) 
 # PROJECT WORKFLOW
       ➼ Ideation phase
      [Problem statement] -[https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf](https://github.com/IBM-EPBL/IBM-Project-17832-1659676633/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20Statement.docx.pdf)
